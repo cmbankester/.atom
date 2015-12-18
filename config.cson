@@ -1,0 +1,54 @@
+"*":
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+    softWrapHangingIndent: 4
+    fontSize: 15
+  core:
+    disabledPackages: [
+      "background-tips"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "solarized-dark-bold-syntax"
+    ]
+    audioBeep: false
+  "exception-reporting":
+    userId: "d2d6e6c7-edd5-fe9a-7b21-8e20747c9879"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "537d4986a87c34b49697b81a40543a3d8d4f3f29"
+  "tree-view":
+    hideVcsIgnoredFiles: false
+  "atom-beautify":
+    _analyticsUserId: "13d825a7-cda2-4bfa-b88f-353c8ee8a2a1"
+  tabs:
+    enableVcsColoring: true
+  "linter-eslint":
+    globalNodePath: "/Users/cbankester/.nvm/versions/node/v4.1.1"
+    useGlobalEslint: true
+    disableWhenNoEslintrcFileInPath: true
+  "quick-editor": {}
+  linter:
+    lintOnFly: false
+    showErrorPanel: false
+  "linter-slim":
+    executableDir: "/Users/cbankester/.rbenv/versions/2.2.3/bin/"
+    library: [
+      "slim/grammar"
+      "slim/engine"
+    ]
+    rails: true
+  "markdown-preview":
+    useGitHubStyle: true
+  fonts:
+    fontFamily: "FiraCode"
+".js.regexp.source":
+  editor:
+    softWrapHangingIndent: 4
+".js.source":
+  editor:
+    softWrapHangingIndent: 4
